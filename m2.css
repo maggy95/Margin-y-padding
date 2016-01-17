@@ -1,0 +1,27 @@
+div{
+	
+	border: 1px solid orange;
+	padding-left: 10px;
+	height: 250px;
+	width: 220px;
+	text-align: left;
+	font-family:bold;
+	font-size: 17px;
+	font-weight:lighter;
+	padding-bottom: 10px;
+
+}
+
+.a{
+	
+	padding-left: 10px;
+	padding-bottom: 10px;
+
+}
+
+.c{
+	
+	padding-left: 10px;
+	padding-bottom: 10px;
+
+}
